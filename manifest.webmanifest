@@ -1,0 +1,16 @@
+{
+  "name": "GVA 50º BIS — Locais de Votação 2026",
+  "short_name": "GVA 50º BIS",
+  "description": "Mapa de locais de votação de 13 municípios do Maranhão — Zona Eleitoral.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e110a",
+  "theme_color": "#12150e",
+  "lang": "pt-BR",
+  "icons": [
+    {"src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
